@@ -1,10 +1,15 @@
-# Primitive data types in Python
-my_int = 5
-my_str = 'Hello'
-my_float = 3.14
-my_bool = True
+# Integer
+age = 25
+print("Age:", age)
 
-print("Integer:", my_int)
-print("String:", my_str)
-print("Float:", my_float)
-print("Boolean:", my_bool)
+# Floating-point
+price = 19.99
+print("Price:", price)
+
+# String
+greeting = "Hello, World!"
+print("Greeting:", greeting)
+
+# Boolean
+is_happy = True
+print("Is Happy:", is_happy)
